@@ -6,3 +6,6 @@ def first_branch():
 first_branch()
 
 print('executed first branch function')
+
+new = input()
+
